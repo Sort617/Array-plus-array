@@ -19,5 +19,3 @@
 **Tests:**
 - The function is tested with positive, negative, and mixed numbers to ensure accuracy.
 - Each test compares the function's output to the expected sum.
-
-Ensure Python is installed to run the files.
